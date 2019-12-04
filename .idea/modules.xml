@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../cadence_activity_try/.idea/cadence-activity-try.iml" filepath="$PROJECT_DIR$/../cadence_activity_try/.idea/cadence-activity-try.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cadence_activity_try/.idea/cadence_activity_try.iml" filepath="$PROJECT_DIR$/../cadence_activity_try/.idea/cadence_activity_try.iml" />
     </modules>
   </component>
 </project>
